@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">AIzaSyCpgB9I93SOg_58kTairfW7_QcrhVZ7QXg</string>
+    <string name="search_engine">010766345319347882220%3A5kyu8pew9t0</string>
+    <string name="searchAPI">https://www.googleapis.com/customsearch/v1?q=
+        cat
+        &amp;cx=@string/search_engine&amp;num=10&amp;searchType=image&amp;key=@string/api_key</string>
+</resources>
